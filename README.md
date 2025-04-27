@@ -4,56 +4,10 @@
 
 ## CASO PRÁTICO 3
 REQUERIMIENTOS
--- División de las zonas en distinas *V*irtual *L*ocal *A*rea *N*etwork
-
--- Enrutamiento dinámico entre las distintas VLAN (Protocólos OSPF, que se comportan por el alogritmo de dijsktra facilitando la ruta mas óptima para llegar al destino que se desee)
 
 -- Encriptación de paquetes
 
 -- Seguridad en la red integrando protocolos de encryptación y dispositivos intermedios(routers y firewalls) 
-### Esquema de como se dispone la red con dispositivos intermedios para garantizar una seguridad óptima (lo hable con pichu y creo que es así (preguntar a rubén))
-PC1
-
- │
- 
- ▼
-
-Switch1
-
- │
- 
- ▼
-
-Firewall
-
- │
- 
- ▼
-
-Router1
-
- │
- 
- ▼
-
-Switch2
-
- │
- 
- ▼
-
-Router2
-
- │
- 
- ▼
-
-Switch3
-
- │
- 
- ▼
-PC2
 
 -- Protocólos de transferencia de archivos segura (SFTP, el cual requiere de usuario y contraseña para poder acceder a este protocolo)
 
