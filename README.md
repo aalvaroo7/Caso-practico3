@@ -13,25 +13,45 @@ REQUERIMIENTOS
 -- Seguridad en la red integrando protocolos de encryptación y dispositivos intermedios(routers y firewalls) 
 ### Esquema de como se dispone la red con dispositivos intermedios para garantizar una seguridad óptima (lo hable con pichu y creo que es así (preguntar a rubén))
 PC1
+
  │
+ 
  ▼
+
 Switch1
+
  │
+ 
  ▼
+
 Firewall
+
  │
+ 
  ▼
+
 Router1
+
  │
+ 
  ▼
+
 Switch2
+
  │
+ 
  ▼
+
 Router2
+
  │
+ 
  ▼
+
 Switch3
+
  │
+ 
  ▼
 PC2
 
