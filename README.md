@@ -63,7 +63,7 @@ PC2
 
 ## Archivo word que describa lo propuesto por capa y porque se ha decidido implementar cada cosa
 
-## VIDEO TUNELADO https://www.youtube.com/watch?v=6f_FZsmmMZE MIN (9:34 PARA EL JOSE)
+## VIDEOS https://www.youtube.com/playlist?list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx
 ### Apuntes 22/04
 Configurar los ICMP para que tengan un timeout establecido(tienen timeout o por defecto)
 
