@@ -20,6 +20,7 @@
 ## VIDEOS
 
 https://www.youtube.com/watch?v=CsAROSbZF-Y&list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx&index=62&t=315s <--- Montado de una vpn con ipsec(encriptación)
+
 https://www.youtube.com/watch?v=OQVKp6VLyls&t=127s <--- Tunnelado de ipv6  SOBRE  ipv4
 
 
