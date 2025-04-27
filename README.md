@@ -19,7 +19,7 @@ REQUERIMIENTOS
 
 ## VIDEOS https://www.youtube.com/playlist?list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx
 ### Apuntes 22/04
-Configurar los ICMP para que tengan un timeout establecido(tienen timeout o por defecto)
+Configurar los ICMP para que tengan un timeout establecido(tienen timeout 0 por defecto)
 
 # Sobre el caso final integrador
 
