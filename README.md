@@ -3,7 +3,7 @@
 # COMO NO OS LO LEÁIS ESTO ES PARA MATAROS ESTA DETALLADO TODO
 
 ## CASO PRÁTICO 3
-REQUERIMIENTOS
+### REQUERIMIENTOS
 
 -- Encriptación de paquetes
 
@@ -17,9 +17,26 @@ REQUERIMIENTOS
 
 ## Archivo word que describa lo propuesto por capa y porque se ha decidido implementar cada cosa
 
-## VIDEOS https://www.youtube.com/playlist?list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx
+## VIDEOS
+
+https://www.youtube.com/watch?v=CsAROSbZF-Y&list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx&index=62&t=315s <--- Montado de una vpn con ipsec(encriptación)
+https://www.youtube.com/watch?v=OQVKp6VLyls&t=127s <--- Tunnelado de ipv6  SOBRE  ipv4
+
+
 ### Apuntes 22/04
 Configurar los ICMP para que tengan un timeout establecido(tienen timeout 0 por defecto)
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Sobre el caso final integrador
 
