@@ -59,6 +59,8 @@ PC2
 
 -- Servicios de web (HTTP , con una web básica(que es opcional para este, pero requerido en el caso final )
 
+-- Tunnelado para pasar de ipv4 a ipv6 si es necesario
+
 ## Archivo word que describa lo propuesto por capa y porque se ha decidido implementar cada cosa
 
 
