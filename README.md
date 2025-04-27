@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=CsAROSbZF-Y&list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491X
 
 https://www.youtube.com/watch?v=OQVKp6VLyls&t=127s <--- Tunnelado de ipv6  SOBRE  ipv4
 
+https://www.youtube.com/watch?v=hY1sXBt-CQY&list=PLvUOx2WG6R7N5mUWwB-_YLWEkk491XqKx <-- Enlace curso completo del CCNA
+
 
 ### Apuntes 22/04
 Configurar los ICMP para que tengan un timeout establecido(tienen timeout 0 por defecto)
