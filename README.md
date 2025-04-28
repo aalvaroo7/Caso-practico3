@@ -1,10 +1,7 @@
 # Caso-practico3
 https://github.com/aalvaroo7/Caso-practico3.git
 
-# COMO NO OS LO LEÁIS ESTO ES PARA MATAROS ESTA DETALLADO TODO
-
-## CASO PRÁTICO 3
-### REQUERIMIENTOS
+## REQUERIMIENTOS
 
 -- Encriptación de paquetes
 
