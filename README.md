@@ -30,3 +30,4 @@ Configurar los ICMP para que tengan un timeout establecido(tienen timeout 0 por 
 
 
 
+
